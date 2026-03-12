@@ -1,0 +1,5 @@
+# requirements of chatbot.py
+# Built-in Python libraries used:
+ re
+ random
+ datetime
