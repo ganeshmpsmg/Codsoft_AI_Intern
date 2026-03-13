@@ -1,0 +1,8 @@
+#dependencies.txt or requirements.txt of Tac-Tac-Toe file
+
+### **requirements.txt**
+
+```txt
+# No external libraries required; only Python standard library is used.
+# If extended later, you can add:
+# numpy
