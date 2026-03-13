@@ -83,4 +83,4 @@ Author
 
 Ganesh MP
 CODSOFT AI Internship – Task 3
-github repository:https://github.com/ganeshmpsmg/Codsoft_AI_Intern/tree/Recommendation-system
+github repository: https://github.com/ganeshmpsmg/ganeshmpsmg.github.io
