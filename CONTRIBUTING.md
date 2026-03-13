@@ -28,8 +28,8 @@ This project implements a **Tic-Tac-Toe game** with an AI opponent using the **M
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/TicTacToe-AI.git
-cd TicTacToe-AI
+git clone https://github.com/ganesmpsmg/Tic-Tac-Toe.git
+cd Tic-Tac-Toe
 
 Install dependencies:
 
@@ -79,3 +79,6 @@ Author
 
 Ganesh MP
 CODSOFT AI Internship – Task 2
+
+
+Github repository link:https://github.com/ganesmpsmg/Codsoft_AI_Intern/tree/Tic-Tac-Toe
