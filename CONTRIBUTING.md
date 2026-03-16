@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 Run the program:
 
-python tictactoe.py
+python Tic-Tac-Toe.py
 
 Follow the prompts to play:
 
