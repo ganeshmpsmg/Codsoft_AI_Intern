@@ -1,4 +1,4 @@
-#dependencies.txt or requirements.txt of Tac-Tac-Toe file
+#dependencies.txt or requirements.txt of, Tac-Tac-Toe file
 
 ### **requirements.txt**
 
